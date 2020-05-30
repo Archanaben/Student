@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author Archanaben -- May2020
+ * @author Archanaben 
  */
 public class Student 
 {
