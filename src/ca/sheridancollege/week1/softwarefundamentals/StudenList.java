@@ -20,7 +20,7 @@ public class StudenList {
             sList[i] = new Student();
             sList[i].setName("Student " + (i+1) );
         }
-        //3. Print the array
+        //3. Print the array --hello
         for(Student s:sList)
             System.out.println("The Student name is: "+s.getName());
     }
